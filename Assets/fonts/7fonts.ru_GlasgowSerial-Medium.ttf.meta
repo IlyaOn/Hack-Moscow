@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 076690e56cfdb6c44b5e330d98e79bd0
+timeCreated: 1524348787
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: GlasgowSerial
+  fontNames:
+  - GlasgowSerial
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
